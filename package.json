@@ -1,0 +1,18 @@
+{
+  "name": "should-test-demo",
+  "version": "1.0.0",
+  "description": "Should Testing framework demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Shuld","mocha"
+  ],
+  "author": "Sandeep",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.3.2",
+    "should": "^7.1.0"
+  }
+}
